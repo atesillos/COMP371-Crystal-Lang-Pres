@@ -15,3 +15,10 @@ Creating your first file is easy.
 4. The syntax that will print something in termanial is: ```puts "Hello, world!"```
 5. Exit your editor and type: ```crytal HelloWorld.cr```
 6. This will run the program and print out ```Hello, world!``` right in your terminal!
+
+# Example Files
+
+I have prepared a few example files that you can download and run in your own terminal!
+
+A few of the different types of files include the step by step 'Hello, world!' file. I have also included a 'HelloCrystal.cr' file which, when editing, will show you the basics and explanation of some other things. 
+<!-- I need to fix the content above.-->
