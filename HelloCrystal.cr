@@ -13,7 +13,7 @@ Comments do not go across multiple lines."
 
 smolString = "Hi!"
 puts smolString
-bigString = "I am a lot longer!"
+bigString = "I am a big string!"
 puts bigString
 
 # This prints out the standard output
@@ -30,8 +30,9 @@ puts "#{numThree}"
 # We can change the variable type
 
 puts "Inside the code, we had smolString set to 'Hi!', but now it will equal the number 10, changing its type."
-
+p! typeof(smolString)
 smolString = 10
+p! typeof(smolString)
 
 puts "#{smolString} + #{numOne} = #{smolString + numOne}"
 
