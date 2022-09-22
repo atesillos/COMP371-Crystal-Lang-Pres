@@ -6,10 +6,9 @@ class Hello
 end
 
 # This will not work
-# TODO : Fix this by editing the class title!
-class Oh_no
-	puts self
-end
+# class Oh no
+#		puts self
+# end
 
 class Counter
 	@@instances = 0
