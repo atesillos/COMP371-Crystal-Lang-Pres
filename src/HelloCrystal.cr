@@ -47,3 +47,13 @@ puts "#{smolString} + #{numOne} = #{smolString + numOne}"
 def add (x,y)
 	x + y
 end
+
+puts "You can request for user input by using 'gets'. Any input will be taken as a string."
+puts "Enter your name!"
+puts ""
+nameInput = gets
+# p! typeof(nameInput)
+puts "Now I know your name. Hello, #{nameInput}"
+p! typeof(nameInput)
+puts"
+Now we can see what happens to the assumed data type when we type in a number"
