@@ -55,5 +55,5 @@ nameInput = gets
 # p! typeof(nameInput)
 puts "Now I know your name. Hello, #{nameInput}"
 p! typeof(nameInput)
-puts"
+puts "
 Now we can see what happens to the assumed data type when we type in a number"
