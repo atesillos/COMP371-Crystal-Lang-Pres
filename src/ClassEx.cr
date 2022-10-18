@@ -5,7 +5,7 @@ class Hello
 	puts self
 end
 
-# This will not work
+# This will not work due to the space between "Oh" and "no"
 # class Oh no
 #		puts self
 # end
